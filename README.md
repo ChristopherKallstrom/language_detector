@@ -1,2 +1,2 @@
-# language_identification
-Repository for a language identificator based on Google's CLD3 model
+# language_detector
+Repository for a language detector based on Google's CLD3 model
